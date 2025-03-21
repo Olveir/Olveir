@@ -1,10 +1,10 @@
 ## [pt/br] Olá, Eu sou Otávio Vieira!
 
-Atualmente estou cursando o quarto semestre de Ciências da Computação no UniCEUB - Centro Universitário de Brasília.
+Atualmente estou cursando o quinto semestre de Ciências da Computação no UniCEUB - Centro Universitário de Brasília.
 
 ## [en/us] Hello, I am Otávio Vieira!
 
-Currently i'm attending the fourth semester of Computer Science at UniCeub, Brasília.
+Currently i'm attending the fifth semester of Computer Science at UniCeub, Brasília.
 
 ## Redes Sociais | Social media
 
